@@ -1,0 +1,43 @@
+
+ANALYSE DI SUJET
+DECORTICAGE DU PROJET
+DIAGRAMME DU PROJET
+MISE EN OEUVRE D'UN PLAN D'ACTION
+ATTRIBUTION DES ROLES
+
+
+APTTITUDE:
+
+CODE (Web & Mobile) : BONI ANGE, GOHI HENRI, SIDIBE AROUNA (DJANGO, FLUTTER)
+DOCUMENTATION : TOUNKARA SEYDOU, N'DOUFFOU
+
+
+FONCTIONNALITE DE L'APPLI (MOBILE)
+
+- AUTHENTIFICATION
+- SAISIE DE LA DESTINATION
+- SAISIE DE L'ADRESSE
+- RECHERCHE DU CHEMIN LE PLUS FLUIDE GRACE AU ALGORITHME DE PARCOURS
+- DONNE LE CHEMIN EN PARCOURANT LES COMMUNES INTERMEDIAIRES
+
+Notre solution ne va pas certe, empêcher les embouteillages mais va aider les usagers à etre dans une circulation fluide et ainsi être à l'heure 
+dans leurs destinations. Ils n'auront qu'à ouvrir un compte sur notre plate-forme, saisie quelques informations (adresse localisation et 
+destination) et l'application se charge du reste.
+Une photo de la carte d'Abidjan avec ses 10 communes (ABOBO, ADJAME, COCODY, YOPOUGON, TREICHVILLE, KOUMASSI, MARCORI, PORT-BOUET, PLATEAU, 
+BINGERVILLE),chaque itinéraire sera indexé d'un indicateur colorié en (vert si la circulation est fluide, jaune s'il y'a un début d'embouteillage 
+et rouge s'il y'a un embouteillage). Notre algorithme tiendra compte de la couleur de chaque indicateur et suggera le chemin le plus fluide à 
+l'utilisateur.
+
+
+APP MARDI 12/10/2021
+
+TACHES DE LA SEANCE
+
+-DISCUSSION DES IDEES
+-DISSCUSION DES FONCTIONNALITE
+-DISCUSSION DES ACTEURS QUI INTERAGISSENT DANS LE SYSTEME
+-DISCUSSION DE L'ANALYSE DU SYSTEME
+-DISCUSSION DE LA CONCEPTION DU SYSTEME
+-DISCUSSION DES FORMATS DE DONNEES (IMAGES,SONS,VIDEOS,TEXTES) PRISE EN CHARGE PAR LA PLATEFORME
+-SELECTION DES IDEES
+-PRESENTATION D'UNE IDEE DU PROJET AU TITEUR

@@ -1,0 +1,6 @@
+Avoir une carte d'abidjan
+Faire des points des dans les communes ou il ya des embouteillage avec les heures
+Appliquer les algo de parcours sous forme de réseau
+Montrer les parcours les plus rapide en rentrant le nom des communes géré par une IA en fonction des heures
+Appliquer à un site ou une appli mobile
+
